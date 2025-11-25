@@ -359,7 +359,7 @@ Massive thanks to **[Baraa Khatib Salkini](https://www.youtube.com/@DataWithBara
 **Pankaj Yadav**  
 Electronic & Communication Engineering Student | SQL & Data Engineering Enthusiast
 
-- 📧 Email: osrpankajbray@gmail.com
+- 📧 Email: chhotebaba44@gmail.com
 - 💼 LinkedIn: [Pankaj Yadav](www.linkedin.com/in/pankaj-yadav-b22794245)
 - 🐙 GitHub: [@pankajbray](https://github.com/pankajbray)
 
