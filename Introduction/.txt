@@ -1,1 +1,31 @@
+# 🗄️ SQL & Database Management Journey
 
+Welcome to my SQL repository! I am currently diving deep into the world of data, following a comprehensive roadmap to master **SQL Server 2022**. This journey is all about understanding how data is stored, managed, and queried in the real world.
+
+## 🎯 Phase 1: The Introduction
+In this phase, I am covering the fundamental pillars of databases:
+
+### 🧠 Core Concepts
+* **What is SQL?** - Understanding Structured Query Language as the bridge to data.
+* **Why Learn SQL?** - Exploring its power in Data Science and Web Development.
+* **Database & Types** - Differentiating between Relational (RDBMS) and Non-Relational databases.
+* **SQL Commands** - Getting a grip on DDL, DML, DCL, and TCL.
+
+### 🛠️ Environment Setup
+* **SQL Server Installation** - Successfully set up the local environment.
+* **Dataset Management** - Learning how to import datasets and structure new databases.
+
+---
+
+## 🗺️ Learning Roadmap
+![Mind Map Preview] 
+*The above mind map represents my structured approach to mastering SQL.*
+
+---
+
+## 👤 About the Author
+- **Pankaj Kumar** - Engineering Student at NRI Institute of Information Science & Technology, Bhopal.
+- **Interests:** Elecronics & Computer Science, Data Science, and Problem Solving.
+
+---
+*Stay tuned as I upload my practice queries and project files for each chapter!* 🎯
